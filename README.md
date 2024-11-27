@@ -18,4 +18,4 @@ Three main benchmarks are evaluated:
 
 2. **Full Bench:** Complete dataset.
 
-3. **Verified Bench:** Verified results from a wide range of experiments.
+3. **Verified Bench:** Verified subset from SWE-bench.
